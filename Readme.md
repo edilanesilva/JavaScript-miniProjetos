@@ -1,6 +1,6 @@
 # Mini projetos vanilla JavaScript
 
-## Praticando...
+
 
 <h4 align="center"> 
 	🚧 🚀 Em construção...  🚧
